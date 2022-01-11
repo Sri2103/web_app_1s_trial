@@ -1,4 +1,4 @@
-package headers
+package handlers
 
 import (
 	"myapp/pkg/render"
